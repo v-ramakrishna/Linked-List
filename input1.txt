@@ -1,0 +1,35 @@
+A
+United States
+3
+5
+4
+D
+A
+China
+3
+2
+3
+D
+A
+Australia
+2
+0
+3
+D
+M
+Hungary
+bronze
+2
+D
+M
+Australia
+gold
+3
+D
+R
+Russia
+D
+R
+United States
+D
+Q
